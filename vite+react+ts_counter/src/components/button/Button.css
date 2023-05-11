@@ -1,0 +1,10 @@
+.counter-button {
+	font-size: larger;
+	font-weight: bold;
+	background-color: #1a1a1a;
+	transition: 400ms;
+}
+
+.counter-button:hover {
+	background-color: #3e3e3e;
+}

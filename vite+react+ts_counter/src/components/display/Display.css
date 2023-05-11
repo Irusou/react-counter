@@ -1,0 +1,9 @@
+.counter-display {
+	height: 40px;
+	background-color: #1a1a1a;
+	font-size: large;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

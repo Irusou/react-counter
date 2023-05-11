@@ -5,7 +5,7 @@ interface Props {
 }
 
 function Display({ display }: Props) {
-	return <div>{display}</div>;
+	return <div className="counter-display">{display}</div>;
 }
 
 export default Display;
